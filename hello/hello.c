@@ -9,5 +9,7 @@
 			printf("Computer Science Major\n");
 			printf("Andre Tharp\n");
 			printf("Electrical Engineering Major\n");
+		  	printf("Nhu Le\n");
+		  	printf("Electrical Engineering\n");
 			return 0;
 	  }
