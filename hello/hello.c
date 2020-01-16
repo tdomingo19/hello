@@ -6,7 +6,7 @@
 
 	  int main(void) {
 			printf("Tiffany Domingo\n");
-			printf("Major\n");
+			printf("Computer Science Major\n");
 			printf("Andre Tharp\n");
 			printf("Electrical Engineering Major\n");
 			return 0;
